@@ -3,7 +3,7 @@
 	Copyright: 
 	Author: Prabhath Buddhika
 	Date: 05-12-25 09:36
-	Description: This header file declars the variables and functions used with the singly linked list data structure.
+	Description: This header file declares the variables and functions used with the singly linked list data structure.
 */
 
 #include <stdio.h>	//for NULL
@@ -45,5 +45,6 @@ int remove_at(unsigned int position);
 int get_number_of_items();
 //traverse the singly linked list
 void traverse_list();
+
 
 #endif 
